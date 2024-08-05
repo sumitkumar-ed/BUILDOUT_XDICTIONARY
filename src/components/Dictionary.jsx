@@ -19,7 +19,7 @@ const XDictionary = () => {
 
   return (
     <div className="dictionary-container">
-      <h2 className="title">XDictionary</h2>
+      <h2 className="title">Dictionary App</h2>
       <div className="search-container">
         <input
           type="text"
